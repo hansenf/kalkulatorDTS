@@ -5,7 +5,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "ratsoft.android.aplikasikalkulator"
+        applicationId "hans.android.aplikasikalkulator"
         minSdkVersion 19
         targetSdkVersion 29
         versionCode 1

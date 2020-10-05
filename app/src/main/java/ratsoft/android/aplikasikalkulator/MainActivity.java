@@ -1,4 +1,4 @@
-package ratsoft.android.aplikasikalkulator;
+package hans.android.aplikasikalkulator;
 
 import androidx.appcompat.app.AppCompatActivity;
 
