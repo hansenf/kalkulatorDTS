@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         input2 = findViewById(R.id.nomor2);
         total = findViewById(R.id.total);
     }
-    //cek untuk desimal atau tidak menghilangkan .0 biar simple dan seperti kalkulator sebenarnya :v
+    //Pengecekan Desimal
     private  String CekDesimal(float angka){
         String _t ;
         String _a = "" + angka;
