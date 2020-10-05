@@ -1,4 +1,4 @@
-package id.ac.poliban.dts.molida.latihan00;
+package ratsoft.android.aplikasikalkulator;
 
 import org.junit.Test;
 
